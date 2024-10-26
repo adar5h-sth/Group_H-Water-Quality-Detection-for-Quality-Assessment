@@ -17,5 +17,8 @@ You can view and interact with the Tinkercad simulation of this project [here](h
 
 ![Circuit Design](https://github.com/user-attachments/assets/365322eb-3cb9-4c99-ade0-c0958d308dac)
 
+For a video demonstration of the project, click [here](https://drive.google.com/file/d/1-TJZSeFglKSdwy7Y_vG780jrGQGOlIR5/view?usp=sharing)
+
+
 ## Schematic View
 ![Schematic View](https://github.com/user-attachments/assets/28900406-8320-47f0-bc53-ee47edd90172)
